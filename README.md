@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Simple Movie Description Site with React / Practice
 
 https://nameless0422.github.io/react-for-beginners/
 
